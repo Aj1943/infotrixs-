@@ -1,1 +1,1 @@
-# infotrixs-
+This is a Chat application. In this, there is a single chat room. Users can see all the chats. To post a message, he/she must register or log into the application. I have learned how to authenticate users, and how to render data from the database. I also gained knowledge how to create new users as well.
